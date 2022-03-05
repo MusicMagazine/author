@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 23:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 01:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕"한국 콘텐츠는 이제 시작" (차우진의 TMI.FM ─ 메일리)]]></title>
+            <link>https://maily.so/draft.briefing/posts/6a449edf</link>
+            <guid>https://maily.so/draft.briefing/posts/6a449edf</guid>
+            <pubDate>Sat, 05 Mar 2022 01:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 한류 팬은 1억5천명]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily04ca489354e7860c9464a9f28530b7591646408683" length="0" type="image//maily04ca489354e7860c9464a9f28530b7591646408683"/>
+        </item>
         <item>
             <title><![CDATA[☕우크라이나의 평화를 위해 움직이는 음악계 (차우진의 TMI.FM ─ 메일리)]]></title>
             <link>https://maily.so/draft.briefing/posts/30876d57</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
             <content:encoded><![CDATA[※ 스포일러가 일부 포함되었지만, 그렇다고 이 영화의 재미가 줄지는 않을 겁니다 😀]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailybb47a404222a5e2fc61f54ef7ba757eb1641160639" length="0" type="image//mailybb47a404222a5e2fc61f54ef7ba757eb1641160639"/>
-        </item>
-        <item>
-            <title><![CDATA[☕2022년에 벌어질 일들 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/235260ae</link>
-            <guid>https://maily.so/draft.briefing/posts/235260ae</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[세상이 너무 빨리 변하고 있나요?]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily78a42182e44c9dfe90807134b087876d1640569739" length="0" type="image//maily78a42182e44c9dfe90807134b087876d1640569739"/>
         </item>
         <item>
             <title><![CDATA[유니버설 뮤직 그룹의 상장이 의미하는 것 (TMI.FM 뮤직랩스 ─ 카카오톡 채널)]]></title>
@@ -504,7 +504,7 @@
             <title><![CDATA[[KLAB] 방탄소년단 X 그래미 (제너레이트 ─ 링크트리)]]></title>
             <link>https://MusicMagazine.github.io/author/all.xml</link>
             <guid>https://MusicMagazine.github.io/author/all.xml</guid>
-            <pubDate>Fri, 04 Mar 2022 23:20:04 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2022 01:16:57 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[KLAB] 방탄소년단 X 그래미</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>

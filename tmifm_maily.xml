@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Mar 2022 23:20:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 01:16:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕"한국 콘텐츠는 이제 시작"]]></title>
+            <link>https://maily.so/draft.briefing/posts/6a449edf</link>
+            <guid>https://maily.so/draft.briefing/posts/6a449edf</guid>
+            <pubDate>Sat, 05 Mar 2022 01:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 한류 팬은 1억5천명]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily04ca489354e7860c9464a9f28530b7591646408683" length="0" type="image//maily04ca489354e7860c9464a9f28530b7591646408683"/>
+        </item>
         <item>
             <title><![CDATA[☕우크라이나의 평화를 위해 움직이는 음악계]]></title>
             <link>https://maily.so/draft.briefing/posts/30876d57</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
             <content:encoded><![CDATA[※ 스포일러가 일부 포함되었지만, 그렇다고 이 영화의 재미가 줄지는 않을 겁니다 😀]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailybb47a404222a5e2fc61f54ef7ba757eb1641160639" length="0" type="image//mailybb47a404222a5e2fc61f54ef7ba757eb1641160639"/>
-        </item>
-        <item>
-            <title><![CDATA[☕2022년에 벌어질 일들]]></title>
-            <link>https://maily.so/draft.briefing/posts/235260ae</link>
-            <guid>https://maily.so/draft.briefing/posts/235260ae</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[세상이 너무 빨리 변하고 있나요?]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily78a42182e44c9dfe90807134b087876d1640569739" length="0" type="image//maily78a42182e44c9dfe90807134b087876d1640569739"/>
         </item>
     </channel>
 </rss>
