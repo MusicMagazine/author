@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 06:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 07:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -393,6 +393,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/WfJ2U8yM7syiOKzpMfm5ylFP-sQ.png" length="0" type="image/fpng/"/>
         </item>
         <item>
+            <title><![CDATA[[칼럼] 바운드(Baund): 뉴 숏폼 플랫폼의 등장 (제너레이트 ─ 글리버리)]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2278134451482</link>
+            <guid>https://zenerate.glivery.co.kr/p/2278134451482</guid>
+            <pubDate>Fri, 11 Mar 2022 07:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;10분 이하의 짧은 동영상을 선보이는 숏폼 플랫폼(Short Form Platform)이 대세로 자리 잡으며 음악 시장도 큰 변화를 맞이했다. 미국 시장에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/R1280x0.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/PCI/image/R52CHyluN-jml8Oh-niAuI9kZ_4.png" length="0" type="image/fpng/"/>
+        </item>
+        <item>
             <title><![CDATA[🤬 스포티파이 위기 ② 음악 대신 팟캐스터를 택하다 (제너레이트 ─ 글리버리)]]></title>
             <link>https://zenerate.glivery.co.kr/p/2275209747103</link>
             <guid>https://zenerate.glivery.co.kr/p/2275209747103</guid>
@@ -465,14 +473,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/PCI/image/K_HSpp0W3JUAxo-xXsb9ZGO5C3Q.jpg" length="0" type="image/fjpg/"/>
         </item>
         <item>
-            <title><![CDATA[SM타운 라이브 2022 : 화려하고 아찔한 광야행 특급열차 (제너레이트 ─ 글리버리)]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2272423984189</link>
-            <guid>https://zenerate.glivery.co.kr/p/2272423984189</guid>
-            <pubDate>Wed, 02 Mar 2022 12:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;&nbsp;2021년 1월 1일 SM은 1년 5개월 만에 SM타운 라이브를 재개했습니다. 브이 라이브, 유튜브, 틱톡, 페이스북, 트위터 등으로 무료 생중계된 SM타운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/R1280x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FPCI%2Fimage%2FVa9iQFr6VHlsAACuC4JbhNXcuZM.jpeg" length="0" type="image//thumb/R1280x0/"/>
-        </item>
-        <item>
             <title><![CDATA[네이버 바이브 파티룸 링크! (제너레이트 ─ 링크트리)]]></title>
             <link>http://naver.me/5CbZX28A</link>
             <guid>http://naver.me/5CbZX28A</guid>
@@ -504,7 +504,7 @@
             <title><![CDATA[[KLAB] 방탄소년단 X 그래미 (제너레이트 ─ 링크트리)]]></title>
             <link>https://MusicMagazine.github.io/author/all.xml</link>
             <guid>https://MusicMagazine.github.io/author/all.xml</guid>
-            <pubDate>Fri, 11 Mar 2022 06:26:02 GMT</pubDate>
+            <pubDate>Fri, 11 Mar 2022 07:19:20 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[KLAB] 방탄소년단 X 그래미</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>

@@ -4,9 +4,17 @@
         <title>제너레이트 ─ 글리버리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 06:26:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 07:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[칼럼] 바운드(Baund): 뉴 숏폼 플랫폼의 등장]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2278134451482</link>
+            <guid>https://zenerate.glivery.co.kr/p/2278134451482</guid>
+            <pubDate>Fri, 11 Mar 2022 07:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;10분 이하의 짧은 동영상을 선보이는 숏폼 플랫폼(Short Form Platform)이 대세로 자리 잡으며 음악 시장도 큰 변화를 맞이했다. 미국 시장에서]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/R1280x0.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/PCI/image/R52CHyluN-jml8Oh-niAuI9kZ_4.png" length="0" type="image/fpng/"/>
+        </item>
         <item>
             <title><![CDATA[🤬 스포티파이 위기 ② 음악 대신 팟캐스터를 택하다]]></title>
             <link>https://zenerate.glivery.co.kr/p/2275209747103</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Mar 2022 12:02:38 GMT</pubDate>
             <content:encoded><![CDATA[OTT 서비스 전쟁이다. 넷플릭스, 웨이브, 왓챠 등 기존 서비스들에 더해 애플TV+(애플티비플러스), 디즈니+(디즈니플러스) 등 해외 서비스까지 국내 서비스를 개시했고, 대규모]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/PCI/image/K_HSpp0W3JUAxo-xXsb9ZGO5C3Q.jpg" length="0" type="image/fjpg/"/>
-        </item>
-        <item>
-            <title><![CDATA[SM타운 라이브 2022 : 화려하고 아찔한 광야행 특급열차]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2272423984189</link>
-            <guid>https://zenerate.glivery.co.kr/p/2272423984189</guid>
-            <pubDate>Wed, 02 Mar 2022 12:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;&nbsp;2021년 1월 1일 SM은 1년 5개월 만에 SM타운 라이브를 재개했습니다. 브이 라이브, 유튜브, 틱톡, 페이스북, 트위터 등으로 무료 생중계된 SM타운]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/R1280x0/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fbrunch%2Fservice%2Fuser%2FPCI%2Fimage%2FVa9iQFr6VHlsAACuC4JbhNXcuZM.jpeg" length="0" type="image//thumb/R1280x0/"/>
         </item>
     </channel>
 </rss>
