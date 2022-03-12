@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 23:20:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 01:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕뮤직카우의 미래는?]]></title>
+            <link>https://maily.so/draft.briefing/posts/014649ff</link>
+            <guid>https://maily.so/draft.briefing/posts/014649ff</guid>
+            <pubDate>Sat, 12 Mar 2022 01:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[일주일 간의 한국 엔터산업 소식을 전합니다]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/mailye60ff082b96c1f8b003544a9e96a5e9b1647036142" length="0" type="image//mailye60ff082b96c1f8b003544a9e96a5e9b1647036142"/>
+        </item>
         <item>
             <title><![CDATA[📻토크쇼 | 김사월 뮤직드라마 <꿈꿀 수 있다면 어디라도> 미리보기]]></title>
             <link>https://maily.so/draft.briefing/posts/87722289</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
             <content:encoded><![CDATA[과연, 음악으로만 먹고 살 수 있을까요?]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily33d1781789e52aec3a7a36e68e001db21641776285" length="0" type="image//maily33d1781789e52aec3a7a36e68e001db21641776285"/>
-        </item>
-        <item>
-            <title><![CDATA[📻일많고고독한밤 | 고양이 같은 미래]]></title>
-            <link>https://maily.so/draft.briefing/posts/d3844d17</link>
-            <guid>https://maily.so/draft.briefing/posts/d3844d17</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[구독자님, 해피 뉴 이어에요.]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily264ebab2b595ba84a4e82032a8446f321641265438" length="0" type="image//maily264ebab2b595ba84a4e82032a8446f321641265438"/>
         </item>
     </channel>
 </rss>
