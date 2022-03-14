@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 23:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 01:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2주 뒤에 만나요 | 바뀌는 것과 준비하는 것들]]></title>
+            <link>https://maily.so/draft.briefing/posts/1374106c</link>
+            <guid>https://maily.so/draft.briefing/posts/1374106c</guid>
+            <pubDate>Mon, 14 Mar 2022 01:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[새 코너+온라인 스터디 안내+근황 올림픽]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily015548de41e8cb9df217aaa3ddcc5d1d1647216004" length="0" type="image//maily015548de41e8cb9df217aaa3ddcc5d1d1647216004"/>
+        </item>
         <item>
             <title><![CDATA[☕뮤직카우의 미래는?]]></title>
             <link>https://maily.so/draft.briefing/posts/014649ff</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
             <content:encoded><![CDATA[Lauren Spencer-Smith - Fingers Crossed]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily6b2ec6a51b3ac554920e3c09909752f61642032535" length="0" type="image//maily6b2ec6a51b3ac554920e3c09909752f61642032535"/>
-        </item>
-        <item>
-            <title><![CDATA[☕웹 3.0과 음악(가)의 미래]]></title>
-            <link>https://maily.so/draft.briefing/posts/1de907b1</link>
-            <guid>https://maily.so/draft.briefing/posts/1de907b1</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[과연, 음악으로만 먹고 살 수 있을까요?]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily33d1781789e52aec3a7a36e68e001db21641776285" length="0" type="image//maily33d1781789e52aec3a7a36e68e001db21641776285"/>
         </item>
     </channel>
 </rss>
