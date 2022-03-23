@@ -52,3 +52,12 @@ url = "https://linktr.ee/Re_nez0"
 entrySelector = "div[class='sc-bdfBwQ sc-gsTCUz bcrzgk bhdLno'] div[class='sc-bdfBwQ LyLIy'] div[class='sc-bdfBwQ pkAuV']"
 titleSelector = "p[class='sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq']"
 linkSelector = "a[class='sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ dLjCyh']"
+
+[vop_bandobyul]
+title = "민중의소리 ─ 서정민갑의 수요뮤직"
+url = "http://www.vop.co.kr/list_tag.php?tag=%EC%84%9C%EC%A0%95%EB%AF%BC%EA%B0%91%EC%9D%98%20%EC%88%98%EC%9A%94%EB%AE%A4%EC%A7%81&page=1"
+entrySelector = "div.list-body ul li"
+titleSelector = "h4"
+linkSelector = "a"
+contentSelector = "p.list-date"
+waitUntil = "networkidle"
