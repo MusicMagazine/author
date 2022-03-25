@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 23:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 01:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[👩‍💻민희진 어도어 대표를 만났습니다]]></title>
+            <link>https://maily.so/draft.briefing/posts/aa873c93</link>
+            <guid>https://maily.so/draft.briefing/posts/aa873c93</guid>
+            <pubDate>Fri, 25 Mar 2022 01:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[feat. 비애티튜드 매거진의 '아티스트 프로젝트' 민희진 편]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily8589434f7bcd970ce2aba155d5afb3301648139588" length="0" type="image//maily8589434f7bcd970ce2aba155d5afb3301648139588"/>
+        </item>
         <item>
             <title><![CDATA[2주 뒤에 만나요 | 바뀌는 것과 준비하는 것들]]></title>
             <link>https://maily.so/draft.briefing/posts/1374106c</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
             <content:encoded><![CDATA[웹 3.0 혹은, 인터넷을 재정의하기]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily47808f106034ff960dba4d2f1f0de1381642033168" length="0" type="image//maily47808f106034ff960dba4d2f1f0de1381642033168"/>
-        </item>
-        <item>
-            <title><![CDATA[🎧TMI.review | 2022년의 첫번째 바이럴 히트곡]]></title>
-            <link>https://maily.so/draft.briefing/posts/15559166</link>
-            <guid>https://maily.so/draft.briefing/posts/15559166</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[Lauren Spencer-Smith - Fingers Crossed]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily6b2ec6a51b3ac554920e3c09909752f61642032535" length="0" type="image//maily6b2ec6a51b3ac554920e3c09909752f61642032535"/>
         </item>
     </channel>
 </rss>

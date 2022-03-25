@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 23:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 01:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[👩‍💻민희진 어도어 대표를 만났습니다 (차우진의 TMI.FM ─ 메일리)]]></title>
+            <link>https://maily.so/draft.briefing/posts/aa873c93</link>
+            <guid>https://maily.so/draft.briefing/posts/aa873c93</guid>
+            <pubDate>Fri, 25 Mar 2022 01:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[feat. 비애티튜드 매거진의 '아티스트 프로젝트' 민희진 편]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily8589434f7bcd970ce2aba155d5afb3301648139588" length="0" type="image//maily8589434f7bcd970ce2aba155d5afb3301648139588"/>
+        </item>
         <item>
             <title><![CDATA[2주 뒤에 만나요 | 바뀌는 것과 준비하는 것들 (차우진의 TMI.FM ─ 메일리)]]></title>
             <link>https://maily.so/draft.briefing/posts/1374106c</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
             <content:encoded><![CDATA[웹 3.0 혹은, 인터넷을 재정의하기]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily47808f106034ff960dba4d2f1f0de1381642033168" length="0" type="image//maily47808f106034ff960dba4d2f1f0de1381642033168"/>
-        </item>
-        <item>
-            <title><![CDATA[🎧TMI.review | 2022년의 첫번째 바이럴 히트곡 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/15559166</link>
-            <guid>https://maily.so/draft.briefing/posts/15559166</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[Lauren Spencer-Smith - Fingers Crossed]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily6b2ec6a51b3ac554920e3c09909752f61642032535" length="0" type="image//maily6b2ec6a51b3ac554920e3c09909752f61642032535"/>
         </item>
         <item>
             <title><![CDATA[유니버설 뮤직 그룹의 상장이 의미하는 것 (TMI.FM 뮤직랩스 ─ 카카오톡 채널)]]></title>
@@ -483,7 +483,7 @@
             <title><![CDATA[[KLAB] 방탄소년단 X 그래미 (제너레이트 ─ 링크트리)]]></title>
             <link>https://MusicMagazine.github.io/author/all.xml</link>
             <guid>https://MusicMagazine.github.io/author/all.xml</guid>
-            <pubDate>Thu, 24 Mar 2022 23:23:18 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 01:23:56 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[KLAB] 방탄소년단 X 그래미</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
