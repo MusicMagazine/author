@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 01:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 02:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -173,6 +173,17 @@
             <guid>https://pf.kakao.com/_nuEns/86947893</guid>
             <pubDate>Wed, 02 Mar 2022 12:02:07 GMT</pubDate>
             <content:encoded><![CDATA[<a class="link_item" href="/_nuEns/86947893"><span class="thume_item" style="background-image: url(&quot;//scrap.kakaocdn.net/dn/b5yubE/btrfIYNh9HR/xfxNmaHsBpr33xuGinPut0/700x380.jpg?width=700&amp;height=380&quot;);"></span><span class="info_item"><span class="txt_g">유니버설 뮤직 그룹의 상장이 의미하는 것</span><em class="emph_g">www.newspim.com</em></span></a>]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[민희진 어도어 대표를 만났습니다 (차우진 ─ 브런치)]]></title>
+            <link>https://brunch.co.kr/@woojin/253</link>
+            <guid>https://brunch.co.kr/@woojin/253</guid>
+            <pubDate>Fri, 25 Mar 2022 02:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="wrap_sub_content">
+                        <em class="tit_sub">feat. 비애티튜드 매거진의 '아티스트 프로젝트' 민희진 편</em><span class="ico_bar"></span>
+                        <span class="article_content">지난 2월, 민희진 어도어(ADOR) 레이블 대표를 만날 자리가 있었습니다. &lt;비애티튜드&gt;라는 매거진에서 마련한 대담에 참석했는데요, 꽤 긴 시간 이어진 대화가 기사화되어 공유합니다. 저를 포함해 총 다섯 명의 인터뷰어가 함께 했고, 저는 주로 K-POP 산업에 대해 질문했습니다. 뉴스레터에는 제 질문만 발췌했는데, 본문 링크로 가시면 좀 더 입체적인 이야</span>
+                    </div>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/haT41cYuBN4cjm9DsRNrip56kvI.jpg" length="0" type="image/fjpg/"/>
         </item>
         <item>
             <title><![CDATA[차우진의 워드비트 | 그저 가만히 쓰다듬는 일 (차우진 ─ 브런치)]]></title>
@@ -382,17 +393,6 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/qjhOnqJ7qv-DA-KayhwP-CCLEew.jpg" length="0" type="image/fjpg/"/>
         </item>
         <item>
-            <title><![CDATA[구독하는 뉴스레터_해외편 (차우진 ─ 브런치)]]></title>
-            <link>https://brunch.co.kr/@woojin/232</link>
-            <guid>https://brunch.co.kr/@woojin/232</guid>
-            <pubDate>Wed, 02 Mar 2022 12:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="wrap_sub_content">
-                        <em class="tit_sub">뉴스레터 뭐 받아보는지 궁금하다고 해서 써보는 뉴스레터</em><span class="ico_bar"></span>
-                        <span class="article_content">1. 음악 산업 분야 &lt;디지털 뮤직 뉴스&gt;는 아마 음악 산업 전문 미디어 중에선 제일 유명한 곳일 것 같은데 말야. 인수, 합병 뿐 아니라 서비스, 플랫폼, 미디어, 레이블 동향 및 통계 등등 업계 소식의 다양함에 있어서도 종합선물세트 같아서 웬만하면 꼭 체크하는 레터임. (마침 워너뮤직이 메타버스 콘서트 플랫폼 '웨이브'를 인수했다는 소식이 떴네)  &lt;뮤</span>
-                    </div>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/WfJ2U8yM7syiOKzpMfm5ylFP-sQ.png" length="0" type="image/fpng/"/>
-        </item>
-        <item>
             <title><![CDATA[[칼럼] 바운드(Baund): 뉴 숏폼 플랫폼의 등장 (제너레이트 ─ 글리버리)]]></title>
             <link>https://zenerate.glivery.co.kr/p/2278134451482</link>
             <guid>https://zenerate.glivery.co.kr/p/2278134451482</guid>
@@ -483,7 +483,7 @@
             <title><![CDATA[[KLAB] 방탄소년단 X 그래미 (제너레이트 ─ 링크트리)]]></title>
             <link>https://MusicMagazine.github.io/author/all.xml</link>
             <guid>https://MusicMagazine.github.io/author/all.xml</guid>
-            <pubDate>Fri, 25 Mar 2022 01:23:56 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 02:48:13 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[KLAB] 방탄소년단 X 그래미</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>

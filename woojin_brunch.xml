@@ -4,9 +4,20 @@
         <title>차우진 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 01:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 02:48:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[민희진 어도어 대표를 만났습니다]]></title>
+            <link>https://brunch.co.kr/@woojin/253</link>
+            <guid>https://brunch.co.kr/@woojin/253</guid>
+            <pubDate>Fri, 25 Mar 2022 02:47:50 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="wrap_sub_content">
+                        <em class="tit_sub">feat. 비애티튜드 매거진의 '아티스트 프로젝트' 민희진 편</em><span class="ico_bar"></span>
+                        <span class="article_content">지난 2월, 민희진 어도어(ADOR) 레이블 대표를 만날 자리가 있었습니다. &lt;비애티튜드&gt;라는 매거진에서 마련한 대담에 참석했는데요, 꽤 긴 시간 이어진 대화가 기사화되어 공유합니다. 저를 포함해 총 다섯 명의 인터뷰어가 함께 했고, 저는 주로 K-POP 산업에 대해 질문했습니다. 뉴스레터에는 제 질문만 발췌했는데, 본문 링크로 가시면 좀 더 입체적인 이야</span>
+                    </div>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/haT41cYuBN4cjm9DsRNrip56kvI.jpg" length="0" type="image/fjpg/"/>
+        </item>
         <item>
             <title><![CDATA[차우진의 워드비트 | 그저 가만히 쓰다듬는 일]]></title>
             <link>https://brunch.co.kr/@woojin/252</link>
@@ -213,17 +224,6 @@
                         <span class="article_content">내 미래를 망치러 온 나의 구원자.  음악 산업의 입장에서 스트리밍은 이런 존재가 아닐까. 2020년과 2021년은 스트리밍이 마침내 음악 산업의 주류로 등극한 시점이자, 코로나19로 궁지에 내몰린 음악가들이 스트리밍으로 수익을 만드는 게 거의 불가능하다는 걸 확인한 시점이기도 하니까. 그런데 과연, 이게 음악계만의 이야기일까?  스트리밍은 음악, 영화, </span>
                     </div>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/qjhOnqJ7qv-DA-KayhwP-CCLEew.jpg" length="0" type="image/fjpg/"/>
-        </item>
-        <item>
-            <title><![CDATA[구독하는 뉴스레터_해외편]]></title>
-            <link>https://brunch.co.kr/@woojin/232</link>
-            <guid>https://brunch.co.kr/@woojin/232</guid>
-            <pubDate>Wed, 02 Mar 2022 12:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="wrap_sub_content">
-                        <em class="tit_sub">뉴스레터 뭐 받아보는지 궁금하다고 해서 써보는 뉴스레터</em><span class="ico_bar"></span>
-                        <span class="article_content">1. 음악 산업 분야 &lt;디지털 뮤직 뉴스&gt;는 아마 음악 산업 전문 미디어 중에선 제일 유명한 곳일 것 같은데 말야. 인수, 합병 뿐 아니라 서비스, 플랫폼, 미디어, 레이블 동향 및 통계 등등 업계 소식의 다양함에 있어서도 종합선물세트 같아서 웬만하면 꼭 체크하는 레터임. (마침 워너뮤직이 메타버스 콘서트 플랫폼 '웨이브'를 인수했다는 소식이 떴네)  &lt;뮤</span>
-                    </div>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fpng/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/WfJ2U8yM7syiOKzpMfm5ylFP-sQ.png" length="0" type="image/fpng/"/>
         </item>
     </channel>
 </rss>
