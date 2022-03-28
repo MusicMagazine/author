@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 23:21:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 03:01:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕'크리에이터 시대'를 대비하세요]]></title>
+            <link>https://maily.so/draft.briefing/posts/5da9670a</link>
+            <guid>https://maily.so/draft.briefing/posts/5da9670a</guid>
+            <pubDate>Mon, 28 Mar 2022 03:00:27 GMT</pubDate>
+            <content:encoded><![CDATA[팬덤, 직거래, 커뮤니티에 대한 얘기들]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/mailyd5ed0edaae08389d2a7d84bb25f62d3d1648419154" length="0" type="image//mailyd5ed0edaae08389d2a7d84bb25f62d3d1648419154"/>
+        </item>
         <item>
             <title><![CDATA[👩‍💻민희진 어도어 대표를 만났습니다(1)]]></title>
             <link>https://maily.so/draft.briefing/posts/aa873c93</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
             <content:encoded><![CDATA[2022년의 키워드는 '메타버스'가 될 것입니다]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailyc9d301b35e1f396af12729b69c2647d91642383734" length="0" type="image//mailyc9d301b35e1f396af12729b69c2647d91642383734"/>
-        </item>
-        <item>
-            <title><![CDATA[💡크리에이터 도구와 D2C의 시대]]></title>
-            <link>https://maily.so/draft.briefing/posts/c0dd50be</link>
-            <guid>https://maily.so/draft.briefing/posts/c0dd50be</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[웹 3.0 혹은, 인터넷을 재정의하기]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily47808f106034ff960dba4d2f1f0de1381642033168" length="0" type="image//maily47808f106034ff960dba4d2f1f0de1381642033168"/>
         </item>
     </channel>
 </rss>
