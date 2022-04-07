@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 22:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 23:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[👩‍💻힙합 1세대 아티스트가 답답해서 직접 만든 소셜 엔터테인먼트 플랫폼]]></title>
+            <link>https://maily.so/draft.briefing/posts/0ac7239d</link>
+            <guid>https://maily.so/draft.briefing/posts/0ac7239d</guid>
+            <pubDate>Thu, 07 Apr 2022 23:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[음악 크리에이터를 위한 플랫폼, 바운드(Baund)]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/maily7a04b19f5b008910993eac1485ec8f1c1649115117" length="0" type="image//maily7a04b19f5b008910993eac1485ec8f1c1649115117"/>
+        </item>
         <item>
             <title><![CDATA[🍰랜디 서의 사적 리뷰 | 투쟁하는 아이들]]></title>
             <link>https://maily.so/draft.briefing/posts/30643aa8</link>
@@ -80,7 +88,7 @@
             <enclosure url="https://cdn.maily.so/mailye60ff082b96c1f8b003544a9e96a5e9b1647036142" length="0" type="image//mailye60ff082b96c1f8b003544a9e96a5e9b1647036142"/>
         </item>
         <item>
-            <title><![CDATA[📻토크쇼 | 김사월 뮤직드라마 <꿈꿀 수 있다면 어디라도> 미리보기]]></title>
+            <title><![CDATA[💬토크쇼 | 김사월 뮤직드라마 <꿈꿀 수 있다면 어디라도> 미리보기]]></title>
             <link>https://maily.so/draft.briefing/posts/87722289</link>
             <guid>https://maily.so/draft.briefing/posts/87722289</guid>
             <pubDate>Thu, 10 Mar 2022 01:20:41 GMT</pubDate>
@@ -152,20 +160,12 @@
             <enclosure url="https://cdn.maily.so/maily5a2bec49d9d1ca3f0c9e3c42e07eba451644367208" length="0" type="image//maily5a2bec49d9d1ca3f0c9e3c42e07eba451644367208"/>
         </item>
         <item>
-            <title><![CDATA[💡첫 ‘뉴스레터’를 보내기까지 12년이 걸린 이유]]></title>
+            <title><![CDATA[👩‍💻첫 ‘뉴스레터’를 보내기까지 12년이 걸린 이유]]></title>
             <link>https://maily.so/draft.briefing/posts/96dc54c8</link>
             <guid>https://maily.so/draft.briefing/posts/96dc54c8</guid>
             <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
             <content:encoded><![CDATA[&lt;파인더스&gt; 매거진에 쓴 칼럼을 공유합니다]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily5de3be84ab329cf1e9a3cc824cbd32551644191501" length="0" type="image//maily5de3be84ab329cf1e9a3cc824cbd32551644191501"/>
-        </item>
-        <item>
-            <title><![CDATA[📻일많고고독한밤 | "막고 품어라, 낚시질 하지 말고."]]></title>
-            <link>https://maily.so/draft.briefing/posts/cdbd5a0d</link>
-            <guid>https://maily.so/draft.briefing/posts/cdbd5a0d</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[양승우의 &lt;나의 다큐사진 분투기&gt;를 읽었습니다]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily101aa8fe66535848474269b25843cf541643832252" length="0" type="image//maily101aa8fe66535848474269b25843cf541643832252"/>
         </item>
     </channel>
 </rss>
