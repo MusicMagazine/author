@@ -4,9 +4,17 @@
         <title>제너레이트 ─ 글리버리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 07:21:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 08:25:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[공지] 제너레이트 ZENERATE 개편]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2280557171267</link>
+            <guid>https://zenerate.glivery.co.kr/p/2280557171267</guid>
+            <pubDate>Fri, 08 Apr 2022 08:25:03 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;안녕하세요,&nbsp;대중음악평론가&nbsp;김도헌입니다.&nbsp;저는 2013년 2월부터 대중음악 웹진 이즘(IZM)에서 에디터로 활동했고, 2019년 2]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/ZENERATE-1649404274419.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[칼럼] 바운드(Baund): 뉴 숏폼 플랫폼의 등장]]></title>
             <link>https://zenerate.glivery.co.kr/p/2278134451482</link>
@@ -77,14 +85,6 @@
             <guid>https://zenerate.glivery.co.kr/p/2272500313900</guid>
             <pubDate>Wed, 02 Mar 2022 12:02:38 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;OTT 서비스 전쟁이다. 넷플릭스, 웨이브, 왓챠 등 기존 서비스들에 더해 애플TV+(애플티비플러스), 디즈니+(디즈니플러스) 등 해외 서비스까지 국내 서비스를 개시했고]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/PCI/image/K_HSpp0W3JUAxo-xXsb9ZGO5C3Q.jpg" length="0" type="image/fjpg/"/>
-        </item>
-        <item>
-            <title><![CDATA[[시리즈] 해외 음원 스트리밍 서비스 탐구 : ② 스포티파이]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2272500118197</link>
-            <guid>https://zenerate.glivery.co.kr/p/2272500118197</guid>
-            <pubDate>Wed, 02 Mar 2022 12:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[OTT 서비스 전쟁이다. 넷플릭스, 웨이브, 왓챠 등 기존 서비스들에 더해 애플TV+(애플티비플러스), 디즈니+(디즈니플러스) 등 해외 서비스까지 국내 서비스를 개시했고, 대규모]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/PCI/image/K_HSpp0W3JUAxo-xXsb9ZGO5C3Q.jpg" length="0" type="image/fjpg/"/>
         </item>
     </channel>
