@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 23:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 01:26:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕NFT에 진심인 래퍼 화지]]></title>
+            <link>https://maily.so/draft.briefing/posts/6961b1ca</link>
+            <guid>https://maily.so/draft.briefing/posts/6961b1ca</guid>
+            <pubDate>Sat, 09 Apr 2022 01:25:13 GMT</pubDate>
+            <content:encoded><![CDATA[vs. 음악저작물에 NFT 적용이 어려운 이유(feat. 한국음악콘텐츠협회)]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/mailydf39c77e9dd43bff296d3654317f75871649465731" length="0" type="image//mailydf39c77e9dd43bff296d3654317f75871649465731"/>
+        </item>
         <item>
             <title><![CDATA[👩‍💻힙합 1세대 아티스트가 답답해서 직접 만든 소셜 엔터테인먼트 플랫폼]]></title>
             <link>https://maily.so/draft.briefing/posts/0ac7239d</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
             <content:encoded><![CDATA[+2022 음악 산업 트렌드 리포트(첨부)]]></content:encoded>
             <enclosure url="https://cdn.maily.so/maily5a2bec49d9d1ca3f0c9e3c42e07eba451644367208" length="0" type="image//maily5a2bec49d9d1ca3f0c9e3c42e07eba451644367208"/>
-        </item>
-        <item>
-            <title><![CDATA[👩‍💻첫 ‘뉴스레터’를 보내기까지 12년이 걸린 이유]]></title>
-            <link>https://maily.so/draft.briefing/posts/96dc54c8</link>
-            <guid>https://maily.so/draft.briefing/posts/96dc54c8</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;파인더스&gt; 매거진에 쓴 칼럼을 공유합니다]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily5de3be84ab329cf1e9a3cc824cbd32551644191501" length="0" type="image//maily5de3be84ab329cf1e9a3cc824cbd32551644191501"/>
         </item>
     </channel>
 </rss>
