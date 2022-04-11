@@ -4,9 +4,17 @@
         <title>차우진의 TMI.FM ─ 메일리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 23:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 01:44:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[☕레고는 '어린이를 위한 메타버스'를 만든다]]></title>
+            <link>https://maily.so/draft.briefing/posts/4b2027e5</link>
+            <guid>https://maily.so/draft.briefing/posts/4b2027e5</guid>
+            <pubDate>Mon, 11 Apr 2022 01:43:52 GMT</pubDate>
+            <content:encoded><![CDATA[메타버스!]]></content:encoded>
+            <enclosure url="https://cdn.maily.so/mailya5dcabd2276f739683070014666d5c741649640745" length="0" type="image//mailya5dcabd2276f739683070014666d5c741649640745"/>
+        </item>
         <item>
             <title><![CDATA[☕NFT에 진심인 래퍼 화지]]></title>
             <link>https://maily.so/draft.briefing/posts/6961b1ca</link>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
             <content:encoded><![CDATA[K-POP의 글로벌 이슈를 모았습니다]]></content:encoded>
             <enclosure url="https://cdn.maily.so/mailyaca54bdbb3a06bc0d12d03ce53494e6d1644801757" length="0" type="image//mailyaca54bdbb3a06bc0d12d03ce53494e6d1644801757"/>
-        </item>
-        <item>
-            <title><![CDATA[☕인도의 K-POP 연습생과 중국의 인디 록 씬]]></title>
-            <link>https://maily.so/draft.briefing/posts/952c20ff</link>
-            <guid>https://maily.so/draft.briefing/posts/952c20ff</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[+2022 음악 산업 트렌드 리포트(첨부)]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily5a2bec49d9d1ca3f0c9e3c42e07eba451644367208" length="0" type="image//maily5a2bec49d9d1ca3f0c9e3c42e07eba451644367208"/>
         </item>
     </channel>
 </rss>
