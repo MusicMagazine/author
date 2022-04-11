@@ -4,169 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 03:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 04:27:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[☕레고는 '어린이를 위한 메타버스'를 만든다 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/4b2027e5</link>
-            <guid>https://maily.so/draft.briefing/posts/4b2027e5</guid>
-            <pubDate>Mon, 11 Apr 2022 01:43:52 GMT</pubDate>
-            <content:encoded><![CDATA[메타버스!]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailya5dcabd2276f739683070014666d5c741649640745" length="0" type="image//mailya5dcabd2276f739683070014666d5c741649640745"/>
-        </item>
-        <item>
-            <title><![CDATA[☕NFT에 진심인 래퍼 화지 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/6961b1ca</link>
-            <guid>https://maily.so/draft.briefing/posts/6961b1ca</guid>
-            <pubDate>Sat, 09 Apr 2022 01:25:13 GMT</pubDate>
-            <content:encoded><![CDATA[vs. 음악저작물에 NFT 적용이 어려운 이유(feat. 한국음악콘텐츠협회)]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailydf39c77e9dd43bff296d3654317f75871649465731" length="0" type="image//mailydf39c77e9dd43bff296d3654317f75871649465731"/>
-        </item>
-        <item>
-            <title><![CDATA[👩‍💻힙합 1세대 아티스트가 답답해서 직접 만든 소셜 엔터테인먼트 플랫폼 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/0ac7239d</link>
-            <guid>https://maily.so/draft.briefing/posts/0ac7239d</guid>
-            <pubDate>Thu, 07 Apr 2022 23:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[음악 크리에이터를 위한 플랫폼, 바운드(Baund)]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily7a04b19f5b008910993eac1485ec8f1c1649115117" length="0" type="image//maily7a04b19f5b008910993eac1485ec8f1c1649115117"/>
-        </item>
-        <item>
-            <title><![CDATA[🍰랜디 서의 사적 리뷰 | 투쟁하는 아이들 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/30643aa8</link>
-            <guid>https://maily.so/draft.briefing/posts/30643aa8</guid>
-            <pubDate>Wed, 06 Apr 2022 11:17:36 GMT</pubDate>
-            <content:encoded><![CDATA[아이들 [I NEVER DIE] (2022)]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailye263a30008e9d4d21a66cdf758e7f8af1649082269" length="0" type="image//mailye263a30008e9d4d21a66cdf758e7f8af1649082269"/>
-        </item>
-        <item>
-            <title><![CDATA[☕스티브 아오키가 말하는 '아오키버스' (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/b77ed9a3</link>
-            <guid>https://maily.so/draft.briefing/posts/b77ed9a3</guid>
-            <pubDate>Mon, 04 Apr 2022 03:05:15 GMT</pubDate>
-            <content:encoded><![CDATA[그리고 유튜브 뮤직은 팟캐스트에 진심이다]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily4d602a965ac6b180157c363254db8cee1649040730" length="0" type="image//maily4d602a965ac6b180157c363254db8cee1649040730"/>
-        </item>
-        <item>
-            <title><![CDATA[☕"한국에는 BTS와 아기상어가 있다" (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/7bdff4f3</link>
-            <guid>https://maily.so/draft.briefing/posts/7bdff4f3</guid>
-            <pubDate>Sat, 02 Apr 2022 01:28:02 GMT</pubDate>
-            <content:encoded><![CDATA[일주일 간의 한국 엔터산업 소식을 전합니다]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailyf229bec0796029c92b8d0a00eb0c672b1648843649" length="0" type="image//mailyf229bec0796029c92b8d0a00eb0c672b1648843649"/>
-        </item>
-        <item>
-            <title><![CDATA[📻TMI.FM 라운지 | 온라인 스터디를 오픈합니다 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/fce3e7a5</link>
-            <guid>https://maily.so/draft.briefing/posts/fce3e7a5</guid>
-            <pubDate>Fri, 01 Apr 2022 03:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[멤버십 커뮤니티(12명) + 콘텐츠 비즈니스 모델링(6명)]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailyd78593cccba51b6239421dd4a06a69501648756846" length="0" type="image//mailyd78593cccba51b6239421dd4a06a69501648756846"/>
-        </item>
-        <item>
-            <title><![CDATA[🍰포토카드의 기쁨과 슬픔(1) | 포카판 입성, 후회하냐고요? (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/9041546f</link>
-            <guid>https://maily.so/draft.briefing/posts/9041546f</guid>
-            <pubDate>Wed, 30 Mar 2022 11:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[핑크블러드의 덕질 에세이]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailya5c7dccb068c2139b17fc9c40d108d581648638012" length="0" type="image//mailya5c7dccb068c2139b17fc9c40d108d581648638012"/>
-        </item>
-        <item>
-            <title><![CDATA[☕'크리에이터 시대'를 대비하세요 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/5da9670a</link>
-            <guid>https://maily.so/draft.briefing/posts/5da9670a</guid>
-            <pubDate>Mon, 28 Mar 2022 03:00:27 GMT</pubDate>
-            <content:encoded><![CDATA[팬덤, 직거래, 커뮤니티에 대한 얘기들]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailyd5ed0edaae08389d2a7d84bb25f62d3d1648419154" length="0" type="image//mailyd5ed0edaae08389d2a7d84bb25f62d3d1648419154"/>
-        </item>
-        <item>
-            <title><![CDATA[👩‍💻민희진 어도어 대표를 만났습니다(1) (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/aa873c93</link>
-            <guid>https://maily.so/draft.briefing/posts/aa873c93</guid>
-            <pubDate>Fri, 25 Mar 2022 01:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[feat. 비애티튜드 매거진의 '아티스트 프로젝트' 민희진 편]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily8589434f7bcd970ce2aba155d5afb3301648139588" length="0" type="image//maily8589434f7bcd970ce2aba155d5afb3301648139588"/>
-        </item>
-        <item>
-            <title><![CDATA[2주 뒤에 만나요 | 바뀌는 것과 준비하는 것들 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/1374106c</link>
-            <guid>https://maily.so/draft.briefing/posts/1374106c</guid>
-            <pubDate>Mon, 14 Mar 2022 01:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[새 코너+온라인 스터디 안내+근황 올림픽]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily015548de41e8cb9df217aaa3ddcc5d1d1647216004" length="0" type="image//maily015548de41e8cb9df217aaa3ddcc5d1d1647216004"/>
-        </item>
-        <item>
-            <title><![CDATA[☕뮤직카우의 미래는? (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/014649ff</link>
-            <guid>https://maily.so/draft.briefing/posts/014649ff</guid>
-            <pubDate>Sat, 12 Mar 2022 01:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[일주일 간의 한국 엔터산업 소식을 전합니다]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailye60ff082b96c1f8b003544a9e96a5e9b1647036142" length="0" type="image//mailye60ff082b96c1f8b003544a9e96a5e9b1647036142"/>
-        </item>
-        <item>
-            <title><![CDATA[💬토크쇼 | 김사월 뮤직드라마 <꿈꿀 수 있다면 어디라도> 미리보기 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/87722289</link>
-            <guid>https://maily.so/draft.briefing/posts/87722289</guid>
-            <pubDate>Thu, 10 Mar 2022 01:20:41 GMT</pubDate>
-            <content:encoded><![CDATA['뮤직드라마'가 뭐예요? | 출연: 김사월, 유지수(참솜), 랏도(랏밴뮤)]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily913b0178e43ec9d050aaae9f2a045e521646846119" length="0" type="image//maily913b0178e43ec9d050aaae9f2a045e521646846119"/>
-        </item>
-        <item>
-            <title><![CDATA[☕"한국 콘텐츠는 이제 시작" (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/6a449edf</link>
-            <guid>https://maily.so/draft.briefing/posts/6a449edf</guid>
-            <pubDate>Sat, 05 Mar 2022 01:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 한류 팬은 1억5천명]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily04ca489354e7860c9464a9f28530b7591646408683" length="0" type="image//maily04ca489354e7860c9464a9f28530b7591646408683"/>
-        </item>
-        <item>
-            <title><![CDATA[☕우크라이나의 평화를 위해 움직이는 음악계 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/30876d57</link>
-            <guid>https://maily.so/draft.briefing/posts/30876d57</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[러시아는 우크라이나 침공을 멈춰라!]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily920fab02c42643e3da2aef825767bb0e1646020157" length="0" type="image//maily920fab02c42643e3da2aef825767bb0e1646020157"/>
-        </item>
-        <item>
-            <title><![CDATA[☕진격의 SM, 뜨거운 NFT (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/596754e7</link>
-            <guid>https://maily.so/draft.briefing/posts/596754e7</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[(새 코너) 국내 콘텐츠업계 소식을 브리핑합니다]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily4c04629df6a27df76de2f681499b12eb1645799772" length="0" type="image//maily4c04629df6a27df76de2f681499b12eb1645799772"/>
-        </item>
-        <item>
-            <title><![CDATA[📝차우진의 워드비트 | 사랑마저 피로한 시대의 러브송 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/59dcbcfb</link>
-            <guid>https://maily.so/draft.briefing/posts/59dcbcfb</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[흐른 - 레저 러브 (2011)]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily60d9980789072f3dd9708f3c3f84a91a1645632862" length="0" type="image//maily60d9980789072f3dd9708f3c3f84a91a1645632862"/>
-        </item>
-        <item>
-            <title><![CDATA[📝차우진의 워드비트#001 | 그저 가만히 쓰다듬는 일 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/5fbe5c41</link>
-            <guid>https://maily.so/draft.briefing/posts/5fbe5c41</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[장기하 - 공중부양(2022)]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily1a37dab810f2a0373f05adea079686531645574418" length="0" type="image//maily1a37dab810f2a0373f05adea079686531645574418"/>
-        </item>
-        <item>
-            <title><![CDATA[☕사운드트랙의 성공 사례들 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/8d146b78</link>
-            <guid>https://maily.so/draft.briefing/posts/8d146b78</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;엔칸토&gt;는 '넥스트 겨울왕국'일까? 정국의 웹툰 OST, 인도 영화의 참신한 사운드트랙 이야기]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/maily1324a0b9429f41f16eb9787b957b149f1645416957" length="0" type="image//maily1324a0b9429f41f16eb9787b957b149f1645416957"/>
-        </item>
-        <item>
-            <title><![CDATA[☕월드 와이드 K-POP: 트위터, 에릭 남, JYP 엔터테인먼트 (차우진의 TMI.FM ─ 메일리)]]></title>
-            <link>https://maily.so/draft.briefing/posts/f089753d</link>
-            <guid>https://maily.so/draft.briefing/posts/f089753d</guid>
-            <pubDate>Wed, 02 Mar 2022 12:01:49 GMT</pubDate>
-            <content:encoded><![CDATA[K-POP의 글로벌 이슈를 모았습니다]]></content:encoded>
-            <enclosure url="https://cdn.maily.so/mailyaca54bdbb3a06bc0d12d03ce53494e6d1644801757" length="0" type="image//mailyaca54bdbb3a06bc0d12d03ce53494e6d1644801757"/>
-        </item>
         <item>
             <title><![CDATA[유니버설 뮤직 그룹의 상장이 의미하는 것 (TMI.FM 뮤직랩스 ─ 카카오톡 채널)]]></title>
             <link>https://pf.kakao.com/_nuEns/86947893</link>
@@ -483,7 +323,7 @@
             <title><![CDATA[[KLAB] 방탄소년단 X 그래미 (제너레이트 ─ 링크트리)]]></title>
             <link>https://MusicMagazine.github.io/author/all.xml</link>
             <guid>https://MusicMagazine.github.io/author/all.xml</guid>
-            <pubDate>Mon, 11 Apr 2022 03:12:05 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 04:27:40 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[KLAB] 방탄소년단 X 그래미</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
