@@ -4,9 +4,17 @@
         <title>제너레이트 ─ 글리버리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 03:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 04:28:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[#ZenerSpace 예고 : 윤하와 사건의 지평선 너머로 💫]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2280974782837</link>
+            <guid>https://zenerate.glivery.co.kr/p/2280974782837</guid>
+            <pubDate>Wed, 13 Apr 2022 04:28:25 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;고마웠어요, 그래도 이제는.​'추억의 가수'라는 워딩을 썩 좋아하지 않습니다. 특히 그 아티스트가 현재도 왕성히 활동하고 있는 경우에 더욱 그렇습니다. 200]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/20220331110340_1734509_1200_1200-1649822671571.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[250 | 인터뷰 ① '춤을 추어요']]></title>
             <link>https://zenerate.glivery.co.kr/p/2280562618834</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Mar 2022 12:02:38 GMT</pubDate>
             <content:encoded><![CDATA[1월 15일 하이브가 새로운 프로젝트 오리지널 스토리를 공개했습니다. 네이버 웹툰의 슈퍼캐스팅 캠페인과 함께하는 오리지널 스토리는 네이버의 글로벌 서비스를 통해 전 세계 10개 언]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/PCI/image/2O8MS5hSnQGeDBrxOOdhKbkdDrM.jpeg" length="0" type="image/fjpg/"/>
-        </item>
-        <item>
-            <title><![CDATA[[리포트] 틱톡의 2021년 : 틱톡은 음악 산업을 바꾼다.]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2273293480144</link>
-            <guid>https://zenerate.glivery.co.kr/p/2273293480144</guid>
-            <pubDate>Wed, 02 Mar 2022 12:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021년도, 2022년도, 새해 첫 히트곡은 틱톡에서 나왔다.지난해 1월 8일 세상을 놀라게 한 올리비아 로드리고의 'drivers license'에 이어 올해는캐나다의 18살]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/PCI/image/TBH_J-6WUfihETTiBzPH2zTj4P4.jpeg" length="0" type="image/fjpg/"/>
         </item>
     </channel>
 </rss>
