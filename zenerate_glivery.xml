@@ -4,9 +4,17 @@
         <title>제너레이트 ─ 글리버리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Apr 2022 06:27:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2022 07:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[IM FEARLESS : 르세라핌 [FEARLESS] 감상회 후기]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2281242430002</link>
+            <guid>https://zenerate.glivery.co.kr/p/2281242430002</guid>
+            <pubDate>Sat, 16 Apr 2022 07:20:11 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;4월 14일 하이브와 쏘스뮤직이 협력하여 론칭하는 걸그룹 르세라핌(LE SSERAFIM)의 데뷔 앨범 [FEARLESS] 음악 감상회에 다녀왔습니다.르세라핌의 콘셉트 포]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTZfMTcz/MDAxNjUwMDg5ODE4MjYw.Bl6ezR9acLTtGzL2Cfe0G3zwMqOX9np84T6goRXbqPQg.KxIxiKViRKnKV1g3Z8CDg0A-r0btRxgoyHbBodDkN2Yg.JPEG/style_6253a0d55b62b-1200x1470.jpeg?type=w1200" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[#ZenerSpace 윤하와 사건의 지평선 💫 #YounhaSpace_EventHorizon]]></title>
             <link>https://zenerate.glivery.co.kr/p/2281111346020</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Mar 2022 12:02:38 GMT</pubDate>
             <content:encoded><![CDATA[세계 최대의 스트리밍 서비스 스포티파이가 휘청인다. 캐나다의 전설적인 록스타 닐 영은 지난 24일 스포티파이에공개서한을 보내며팟캐스트 '조 로건 익스피리언스(The Joe Roga]]></content:encoded>
             <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/My%20project-1643959760958.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[📚 베일 벗은 하이브 오리지널 스토리를 알아보자.]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2274273229721</link>
-            <guid>https://zenerate.glivery.co.kr/p/2274273229721</guid>
-            <pubDate>Wed, 02 Mar 2022 12:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;&nbsp;1월 15일 하이브가 새로운 프로젝트 오리지널 스토리를 공개했습니다. 네이버 웹툰의 슈퍼캐스팅 캠페인과 함께하는 오리지널 스토리는 네이버의 글로벌 서비스를 통]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/PCI/image/2O8MS5hSnQGeDBrxOOdhKbkdDrM.jpeg" length="0" type="image/fjpg/"/>
         </item>
     </channel>
 </rss>
