@@ -4,9 +4,17 @@
         <title>제너레이트 ─ 글리버리</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 04:49:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 05:31:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콩코드 인터뷰 | 과거로 비행하는 초음속 여객기]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2282178619495</link>
+            <guid>https://zenerate.glivery.co.kr/p/2282178619495</guid>
+            <pubDate>Wed, 27 Apr 2022 05:31:12 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;투박한 베이스 연주 위 까슬까슬한 기타 소리가 흐르고, 기계적인 드럼 연주로 구성한 소리의 황무지 위에 미성의 목소리가 흐른다. 청계천의 오래된 레코드 가게에]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/concorde_20220301_EP_OL_%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB_-1651026568861.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[IM FEARLESS : 르세라핌 [FEARLESS] 감상회 후기]]></title>
             <link>https://zenerate.glivery.co.kr/p/2281242430002</link>
@@ -77,14 +85,6 @@
             <guid>https://zenerate.glivery.co.kr/p/2275113930696</guid>
             <pubDate>Wed, 02 Mar 2022 12:02:38 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;세계 최대의 스트리밍 서비스 스포티파이가 휘청인다. 캐나다의 전설적인 록스타 닐 영은 지난 24일 스포티파이에&nbsp;공개서한을 보내며&nbsp;팟캐스트 '조 로건 익]]></content:encoded>
-            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/My%20project-1643959760958.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[시리즈] 스포티파이 위기 ① 조 로건, 닐 영, 그리고...]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2275113663890</link>
-            <guid>https://zenerate.glivery.co.kr/p/2275113663890</guid>
-            <pubDate>Wed, 02 Mar 2022 12:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대의 스트리밍 서비스 스포티파이가 휘청인다. 캐나다의 전설적인 록스타 닐 영은 지난 24일 스포티파이에공개서한을 보내며팟캐스트 '조 로건 익스피리언스(The Joe Roga]]></content:encoded>
             <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/My%20project-1643959760958.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
