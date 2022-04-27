@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 09:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 10:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -234,6 +234,14 @@
         </item>
         <item>
             <title><![CDATA[콩코드 인터뷰 | 과거로 비행하는 초음속 여객기 (제너레이트 ─ 글리버리)]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2282178667209</link>
+            <guid>https://zenerate.glivery.co.kr/p/2282178667209</guid>
+            <pubDate>Wed, 27 Apr 2022 10:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;투박한 베이스 연주 위 까슬까슬한 기타 소리가 흐르고, 기계적인 드럼 연주로 구성한 소리의 황무지 위에 미성의 목소리가 흐른다. 청계천의 오래된 레코드 가게에]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/concorde_20220301_EP_OL_%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB_-1651026568861.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[콩코드 인터뷰 | 과거로 비행하는 초음속 여객기 (제너레이트 ─ 글리버리)]]></title>
             <link>https://zenerate.glivery.co.kr/p/2282178619495</link>
             <guid>https://zenerate.glivery.co.kr/p/2282178619495</guid>
             <pubDate>Wed, 27 Apr 2022 05:31:12 GMT</pubDate>
@@ -305,14 +313,6 @@
             <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/photo-1643208589889-4f02359645c7-1644057606930.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[🤬 스포티파이 위기 ① 조 로건, 닐 영, 그리고... (제너레이트 ─ 글리버리)]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2275113930696</link>
-            <guid>https://zenerate.glivery.co.kr/p/2275113930696</guid>
-            <pubDate>Wed, 02 Mar 2022 12:02:38 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;세계 최대의 스트리밍 서비스 스포티파이가 휘청인다. 캐나다의 전설적인 록스타 닐 영은 지난 24일 스포티파이에&nbsp;공개서한을 보내며&nbsp;팟캐스트 '조 로건 익]]></content:encoded>
-            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/My%20project-1643959760958.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[키라라 <4> 최초의 인터뷰 (3/14 오후 11시) (제너레이트 ─ 링크트리)]]></title>
             <link>https://twitter.com/i/spaces/1BdxYwPbYWZGX</link>
             <guid>https://twitter.com/i/spaces/1BdxYwPbYWZGX</guid>
@@ -323,7 +323,7 @@
             <title><![CDATA[[KLAB] 방탄소년단 X 그래미 (제너레이트 ─ 링크트리)]]></title>
             <link>https://MusicMagazine.github.io/author/all.xml</link>
             <guid>https://MusicMagazine.github.io/author/all.xml</guid>
-            <pubDate>Wed, 27 Apr 2022 09:26:49 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2022 10:25:24 GMT</pubDate>
             <content:encoded><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hqcxUx fbgZpG"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kCYBMu"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 kVCYxL rsIfq">[KLAB] 방탄소년단 X 그래미</p><div class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC keaUzC"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content:encoded>
         </item>
         <item>
