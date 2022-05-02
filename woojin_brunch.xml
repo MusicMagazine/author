@@ -4,9 +4,20 @@
         <title>차우진 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 07:21:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 08:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[파친코]의 오프닝]]></title>
+            <link>https://brunch.co.kr/@woojin/254</link>
+            <guid>https://brunch.co.kr/@woojin/254</guid>
+            <pubDate>Mon, 02 May 2022 08:28:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="wrap_sub_content">
+                        <em class="tit_sub">The Grass Roots - Let's Live For Today</em><span class="ico_bar"></span>
+                        <span class="article_content">https://youtu.be/1GgKXR_J-ww 애플tv+의 [파친코]의 시즌1이 끝났습니다. 시대의 고난을 견디던 인물들이 더없이 행복하게 춤추는 오프닝 시퀀스가 매우 인상적인데, 이때 흐르는 노래는 밴드 The Grass Roots가 1967년에 발표한 첫 번째 빌보드 톱10 히트곡 "Let's Live For Today"입니다. ​ 원곡은 이탈리아</span>
+                    </div>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/0A2eyFm4JSBjB3glJnKxFB5bK0w.jpg" length="0" type="image/fjpg/"/>
+        </item>
         <item>
             <title><![CDATA[민희진 어도어 대표를 만났습니다]]></title>
             <link>https://brunch.co.kr/@woojin/253</link>
@@ -213,17 +224,6 @@
                         <span class="article_content">노르웨이의 싱어송라이터 마리 울벤의 프로젝트 ‘걸 인 레드’는 현재 가장 유명한(그리고 가장 성공한) Z세대의 아티스트다. 1999년에 태어난 그는 자기 세대의 방식대로 활동하고 성과를 낸다. 10대 초반에 인터넷으로 작곡과 편곡, 레코딩을 배웠고, 그렇게 만든 음악을 사운드클라우드와 유튜브에 올렸다가 소위 대박이 났고, 소셜미디어에 다양한 국적의 팬이 생</span>
                     </div>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/EpKQKNMpItyMHTjGRWiaFU0eG4w.jpeg" length="0" type="image/fjpg/"/>
-        </item>
-        <item>
-            <title><![CDATA[스트리밍을 고칠 때입니다(1) / 고건혁(곰사장)]]></title>
-            <link>https://brunch.co.kr/@woojin/233</link>
-            <guid>https://brunch.co.kr/@woojin/233</guid>
-            <pubDate>Wed, 02 Mar 2022 12:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="wrap_sub_content">
-                        <em class="tit_sub">Phase 01. 스트리밍이 음악 산업을 망쳤나요?</em><span class="ico_bar"></span>
-                        <span class="article_content">내 미래를 망치러 온 나의 구원자.  음악 산업의 입장에서 스트리밍은 이런 존재가 아닐까. 2020년과 2021년은 스트리밍이 마침내 음악 산업의 주류로 등극한 시점이자, 코로나19로 궁지에 내몰린 음악가들이 스트리밍으로 수익을 만드는 게 거의 불가능하다는 걸 확인한 시점이기도 하니까. 그런데 과연, 이게 음악계만의 이야기일까?  스트리밍은 음악, 영화, </span>
-                    </div>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/qjhOnqJ7qv-DA-KayhwP-CCLEew.jpg" length="0" type="image/fjpg/"/>
         </item>
     </channel>
 </rss>
