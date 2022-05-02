@@ -4,9 +4,20 @@
         <title>차우진 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 15:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 16:33:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[르 세라핌 - FEARLESS]]></title>
+            <link>https://brunch.co.kr/@woojin/255</link>
+            <guid>https://brunch.co.kr/@woojin/255</guid>
+            <pubDate>Mon, 02 May 2022 16:33:18 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="wrap_sub_content">
+                        <em class="tit_sub"></em>
+                        <span class="article_content">르 세라핌의 신곡+앨범이 공개되었다. 얼마 전 하이브에서 이들의 신곡을 미리 들어볼 수 있었다. 뮤직비디오는 못 봤지만, 대신 퍼포먼스 영상으로 멤버들을 봤다. 제작진(음악/퍼포먼스)의 상세 설명과 Q&amp;A도 있었다.  그때는 아직 공개도 안된 음악에 대해 뭐라 말할 수 있는 게 없어서 아무 말 안했다. 하지만 메모는 좀 적었다. 다음은 그때 적은 메모를 바</span>
+                    </div>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/FlFhJxQklDO3XhuUiQn_8cGowCQ.jpg" length="0" type="image/fjpg/"/>
+        </item>
         <item>
             <title><![CDATA[[파친코]의 오프닝]]></title>
             <link>https://brunch.co.kr/@woojin/254</link>
@@ -213,17 +224,6 @@
                         <em class="tit_sub">강신재 소설집 &lt;해방촌 가는 길&gt;</em><span class="ico_bar"></span>
                         <span class="article_content">1950년대, 특히&nbsp;전쟁&nbsp;후&nbsp;서울을&nbsp;배경으로&nbsp;하는&nbsp;이야기를&nbsp;좋아한다. 거기엔&nbsp;운명적이라고&nbsp;할&nbsp;만한&nbsp;불가해한&nbsp;상황&nbsp;속에&nbsp;놓인&nbsp;인물들의&nbsp;기쁨과&nbsp;슬픔이&nbsp;있다.&nbsp;어릴&nbsp;때는&nbsp;그러한&nbsp;시대의&nbsp;기운에&nbsp;좌절한&nbsp;지식인들, 주로&nbsp;남자들의&nbsp;절망을&nbsp;동경했다. 품어선&nbsp;안되는&nbsp;욕망을&nbsp;욕망하는&nbsp;자들의&nbsp;실패와&nbsp;몰락을&nbsp;사랑했다. 그&nbsp;감정이&nbsp;조용하게&nbsp;격정적으로&nbsp;충돌하는&nbsp;기운을&nbsp;좋아한다.  </span>
                     </div>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[존재로서의 메시지: girl in red]]></title>
-            <link>https://brunch.co.kr/@woojin/234</link>
-            <guid>https://brunch.co.kr/@woojin/234</guid>
-            <pubDate>Wed, 02 Mar 2022 12:02:19 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="wrap_sub_content">
-                        <em class="tit_sub">If I Could Make It Go Quiet (2021)</em><span class="ico_bar"></span>
-                        <span class="article_content">노르웨이의 싱어송라이터 마리 울벤의 프로젝트 ‘걸 인 레드’는 현재 가장 유명한(그리고 가장 성공한) Z세대의 아티스트다. 1999년에 태어난 그는 자기 세대의 방식대로 활동하고 성과를 낸다. 10대 초반에 인터넷으로 작곡과 편곡, 레코딩을 배웠고, 그렇게 만든 음악을 사운드클라우드와 유튜브에 올렸다가 소위 대박이 났고, 소셜미디어에 다양한 국적의 팬이 생</span>
-                    </div>]]></content:encoded>
-            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/EpKQKNMpItyMHTjGRWiaFU0eG4w.jpeg" length="0" type="image/fjpg/"/>
         </item>
     </channel>
 </rss>
