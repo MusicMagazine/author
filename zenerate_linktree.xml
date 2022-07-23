@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://linktr.ee/Re_nez0</id>
     <title>제너레이트 ─ 링크트리</title>
-    <updated>2022-07-23T06:26:26.023Z</updated>
+    <updated>2022-07-23T07:20:33.176Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://linktr.ee/_next/static/logo-assets/favicon.png</icon>
     <entry>
         <title type="html"><![CDATA[0]]></title>
         <id>https://linktr.ee/Re_nez0</id>
         <link href="https://linktr.ee/Re_nez0"/>
-        <updated>2022-07-23T06:26:14.166Z</updated>
+        <updated>2022-07-23T07:20:20.686Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="https://twitter.com/i/spaces/1BdxYwPbYWZGX" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ iTsldh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">키라라 &lt;4&gt; 최초의 인터뷰 (3/14 오후 11시)</p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1]]></title>
         <id>https://linktr.ee/Re_nez0</id>
         <link href="https://linktr.ee/Re_nez0"/>
-        <updated>2022-07-23T06:26:14.173Z</updated>
+        <updated>2022-07-23T07:20:20.694Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><div class="sc-bdfBwQ MUXSj"><div class="sc-bdfBwQ hJerva"><div class="sc-bdfBwQ TOBck"></div></div><div class="sc-bdfBwQ gWDeZD"><div data-testid="LinkEmbedButton" class="sc-bdfBwQ jAmcnV"><button data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 hprkOx kClUEW"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">[KLAB] 방탄소년단 X 그래미</p><div data-testid="CaretIcon" class="sc-bdfBwQ sc-gsTCUz CaretIcon__StyledIcon-sc-3cvq5k-0 bHaMbw bhdLno cegJsp"><svg aria-label="Expand" viewBox="0 0 16 16" enable-background="new 0 0 24 24" class="sc-gKsewC iPbgGn"><path d="M8.006 11c.266 0 .486-.106.695-.323l4.061-4.21A.807.807 0 0013 5.87a.855.855 0 00-.846-.87.856.856 0 00-.626.276L8.006 8.957 4.477 5.276A.87.87 0 003.852 5 .86.86 0 003 5.869c0 .235.087.428.243.599l4.062 4.215c.214.217.434.317.7.317z"></path></svg></div></button></div></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2]]></title>
         <id>https://linktr.ee/Re_nez0</id>
         <link href="https://linktr.ee/Re_nez0"/>
-        <updated>2022-07-23T06:26:14.174Z</updated>
+        <updated>2022-07-23T07:20:20.697Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="https://figk.net/search?searchText=%EA%B9%80%EB%8F%84%ED%97%8C" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ iTsldh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">[FIGK] 김도헌의 FIGK </p></a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3]]></title>
         <id>https://linktr.ee/Re_nez0</id>
         <link href="https://linktr.ee/Re_nez0"/>
-        <updated>2022-07-23T06:26:14.176Z</updated>
+        <updated>2022-07-23T07:20:20.709Z</updated>
         <content type="html"><![CDATA[<div data-testid="StyledContainer" class="sc-bdfBwQ StyledContainer__StyledLinkContainer-sc-1kae6sc-0 hBNyQA doOGeq"><a href="https://zenerate.glivery.co.kr/" target="_blank" rel="noopener" data-testid="LinkButton" aria-describedby="profile-김도헌-kim-do-heon " height="auto" class="sc-pFZIQ StyledButton-sc-686c3k-0 ldGKnQ iTsldh"><p class="sc-hKgILt Button__StyledText-sc-uh5tyw-0 CczVW rsIfq">[Newsletter] 제너레이트 Zenerate</p></a></div>]]></content>
     </entry>
 </feed>
