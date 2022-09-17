@@ -4,9 +4,22 @@
         <title>차우진 ─ 브런치</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 15:28:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 16:32:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[99% 콘텐츠 무료+월 구독료 10만원]]></title>
+            <link>https://brunch.co.kr/@woojin/256</link>
+            <guid>https://brunch.co.kr/@woojin/256</guid>
+            <pubDate>Sat, 17 Sep 2022 16:31:56 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="wrap_sub_content">
+                        <em class="tit_sub"></em>
+                        <span class="article_content">
+                            ※ 뉴스레터의&nbsp;월 구독료가 10만원으로 인상됩니다  단, 기존 구독자들은 월구독 1만원, 연간구독 10만8천원으로 계속해서 유지됩니다.  '비약적인 인상'에 대해서 많은 생각을 했습니다. 월 1만원에서 월 10만원으로 높이는 인상 폭은 제게도 매우 큰 실험이자 도전입니다. 다만 이미 말씀드린 대로, 오래 전부터 저는 앞으로의 콘텐츠 비즈니스는 콘텐츠의 퀄리
+                        </span>
+                    </div>]]></content:encoded>
+            <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/cqP7d9W_A185dCrcetPrrUKuqSg.jpg" length="0" type="image/fjpg/"/>
+        </item>
         <item>
             <title><![CDATA[르 세라핌 - FEARLESS]]></title>
             <link>https://brunch.co.kr/@woojin/255</link>
@@ -252,18 +265,6 @@
                         </span>
                     </div>]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/27FjgNKBA7SxYT22iz4LmmZ3PeA.jpg" length="0" type="image/fjpg/"/>
-        </item>
-        <item>
-            <title><![CDATA['매우' 살아있는 여자들]]></title>
-            <link>https://brunch.co.kr/@woojin/235</link>
-            <guid>https://brunch.co.kr/@woojin/235</guid>
-            <pubDate>Sat, 27 Aug 2022 23:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="wrap_sub_content">
-                        <em class="tit_sub">강신재 소설집 &lt;해방촌 가는 길&gt;</em><span class="ico_bar"></span>
-                        <span class="article_content">
-                            1950년대, 특히&nbsp;전쟁&nbsp;후&nbsp;서울을&nbsp;배경으로&nbsp;하는&nbsp;이야기를&nbsp;좋아한다. 거기엔&nbsp;운명적이라고&nbsp;할&nbsp;만한&nbsp;불가해한&nbsp;상황&nbsp;속에&nbsp;놓인&nbsp;인물들의&nbsp;기쁨과&nbsp;슬픔이&nbsp;있다.&nbsp;어릴&nbsp;때는&nbsp;그러한&nbsp;시대의&nbsp;기운에&nbsp;좌절한&nbsp;지식인들, 주로&nbsp;남자들의&nbsp;절망을&nbsp;동경했다. 품어선&nbsp;안되는&nbsp;욕망을&nbsp;욕망하는&nbsp;자들의&nbsp;실패와&nbsp;몰락을&nbsp;사랑했다. 그&nbsp;감정이&nbsp;조용하게&nbsp;격정적으로&nbsp;충돌하는&nbsp;기운을&nbsp;좋아한다.  
-                        </span>
-                    </div>]]></content:encoded>
         </item>
     </channel>
 </rss>
