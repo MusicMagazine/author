@@ -2,77 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://www.vop.co.kr/list_tag.php?tag=%EC%84%9C%EC%A0%95%EB%AF%BC%EA%B0%91%EC%9D%98%20%EC%88%98%EC%9A%94%EB%AE%A4%EC%A7%81&amp;page=1</id>
     <title>민중의소리 ─ 서정민갑의 수요뮤직</title>
-    <updated>2022-11-07T22:25:38.325Z</updated>
+    <updated>2022-11-07T23:27:16.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://www.vop.co.kr/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[[서정민갑의 수요뮤직] 우리 시대의 작가 9와 숫자들]]></title>
-        <id>http://www.vop.co.kr/A00001607048.html</id>
-        <link href="http://www.vop.co.kr/A00001607048.html"/>
-        <updated>2022-11-07T22:25:37.406Z</updated>
-        <content type="html"><![CDATA[2022-01-06 11:43]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서정민갑의 수요뮤직] 싱어송라이터 도마의 유작]]></title>
-        <id>http://www.vop.co.kr/A00001606373.html</id>
-        <link href="http://www.vop.co.kr/A00001606373.html"/>
-        <updated>2022-11-07T22:25:37.408Z</updated>
-        <content type="html"><![CDATA[2021-12-29 16:21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서정민갑의 수요뮤직] 오열, 노래의 향기로 삶을 지키다]]></title>
-        <id>http://www.vop.co.kr/A00001605792.html</id>
-        <link href="http://www.vop.co.kr/A00001605792.html"/>
-        <updated>2022-11-07T22:25:37.415Z</updated>
-        <content type="html"><![CDATA[2021-12-22 13:07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서정민갑의 수요뮤직] 2021년 ‘올해의 음반’을 고르며]]></title>
-        <id>http://www.vop.co.kr/A00001605231.html</id>
-        <link href="http://www.vop.co.kr/A00001605231.html"/>
-        <updated>2022-11-07T22:25:37.421Z</updated>
-        <content type="html"><![CDATA[2021-12-15 12:27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서정민갑의 수요뮤직] 이주영, 다시 “내 사랑의 그리움”을 노래하다]]></title>
-        <id>http://www.vop.co.kr/A00001604696.html</id>
-        <link href="http://www.vop.co.kr/A00001604696.html"/>
-        <updated>2022-11-07T22:25:37.423Z</updated>
-        <content type="html"><![CDATA[2021-12-08 15:45]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서정민갑의 수요뮤직] 노래를 통해 더 많은 삶을 만나고 싶다]]></title>
-        <id>http://www.vop.co.kr/A00001604084.html</id>
-        <link href="http://www.vop.co.kr/A00001604084.html"/>
-        <updated>2022-11-07T22:25:37.428Z</updated>
-        <content type="html"><![CDATA[2021-12-01 10:44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서정민갑의 수요뮤직] 고단한 당신 곁에 진수영의 피아노를]]></title>
-        <id>http://www.vop.co.kr/A00001603512.html</id>
-        <link href="http://www.vop.co.kr/A00001603512.html"/>
-        <updated>2022-11-07T22:25:37.501Z</updated>
-        <content type="html"><![CDATA[2021-11-24 13:02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서정민갑의 수요뮤직] K-POP, 이대로 충분할까]]></title>
-        <id>http://www.vop.co.kr/A00001602882.html</id>
-        <link href="http://www.vop.co.kr/A00001602882.html"/>
-        <updated>2022-11-07T22:25:37.503Z</updated>
-        <content type="html"><![CDATA[2021-11-17 12:15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서정민갑의 수요뮤직] 특별하고 소중했던 2021년 자라섬재즈페스티벌]]></title>
-        <id>http://www.vop.co.kr/A00001602313.html</id>
-        <link href="http://www.vop.co.kr/A00001602313.html"/>
-        <updated>2022-11-07T22:25:37.505Z</updated>
-        <content type="html"><![CDATA[2021-11-10 12:17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서정민갑의 수요뮤직] 환란의 시대에 대한 한 예술가의 치열한 응답]]></title>
-        <id>http://www.vop.co.kr/A00001601191.html</id>
-        <link href="http://www.vop.co.kr/A00001601191.html"/>
-        <updated>2022-11-07T22:25:37.521Z</updated>
-        <content type="html"><![CDATA[2021-10-27 16:59]]></content>
-    </entry>
 </feed>
