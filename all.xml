@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 01:24:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 02:40:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -274,6 +274,14 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C120x120.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/blP/image/27FjgNKBA7SxYT22iz4LmmZ3PeA.jpg" length="0" type="image/fjpg/"/>
         </item>
         <item>
+            <title><![CDATA[제너레이트 구독자 분들께 드리는 안내 (제너레이트 ─ 글리버리)]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2303778617264</link>
+            <guid>https://zenerate.glivery.co.kr/p/2303778617264</guid>
+            <pubDate>Mon, 02 Jan 2023 02:39:56 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;안녕하세요, 제너레이트를 운영하는 김도헌입니다.제너레이트 뉴스레터를 구독해주시는 여러분께 감사의 말씀을 드립니다.&nbsp;2023년부로 제너레이트는 글리버리 플랫폼을]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/logo-1672626601878.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[🖊 초월을 꿈꾸는 르세라핌 (제너레이트 ─ 글리버리)]]></title>
             <link>https://zenerate.glivery.co.kr/p/2283406278074</link>
             <guid>https://zenerate.glivery.co.kr/p/2283406278074</guid>
@@ -344,14 +352,6 @@
             <pubDate>Wed, 16 Nov 2022 18:31:14 GMT</pubDate>
             <content:encoded><![CDATA[&nbsp;&nbsp;"'슬픈 가운데 춤은 추고 싶은 음악',&nbsp;그것이 제 목표였습니다."&nbsp;'뽕'을 찾는 아티스트가 있었다. 원래 그는&nbsp;세련된 전자 음악을]]></content:encoded>
             <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/IMG_6561%202-1649410222368.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[공지] 제너레이트 ZENERATE 개편 (제너레이트 ─ 글리버리)]]></title>
-            <link>https://zenerate.glivery.co.kr/p/2280557171267</link>
-            <guid>https://zenerate.glivery.co.kr/p/2280557171267</guid>
-            <pubDate>Wed, 16 Nov 2022 18:31:14 GMT</pubDate>
-            <content:encoded><![CDATA[&nbsp;&nbsp;안녕하세요,&nbsp;대중음악평론가&nbsp;김도헌입니다.&nbsp;저는 2013년 2월부터 대중음악 웹진 이즘(IZM)에서 에디터로 활동했고, 2019년 2]]></content:encoded>
-            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/ZENERATE-1649404274419.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[서정민갑의 수요뮤직] 우리 시대의 작가 9와 숫자들 (민중의소리 ─ 서정민갑의 수요뮤직)]]></title>
