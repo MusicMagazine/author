@@ -1,8 +1,91 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zenerate.glivery.co.kr/</id>
-    <title>제너레이트 ─ 글리버리</title>
-    <updated>2024-04-02T15:19:31.532Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://zenerate.glivery.co.kr/icons/favicon-128x128.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>제너레이트 ─ 글리버리</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 02 Apr 2024 16:23:25 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제너레이트 구독자 분들께 드리는 안내]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2303778617264</link>
+            <guid>https://zenerate.glivery.co.kr/p/2303778617264</guid>
+            <pubDate>Tue, 02 Apr 2024 16:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;안녕하세요, 제너레이트를 운영하는 김도헌입니다.제너레이트 뉴스레터를 구독해주시는 여러분께 감사의 말씀을 드립니다.&nbsp;2023년부로 제너레이트는 글리버리 플랫폼을]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/logo-1672626601878.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[🖊 초월을 꿈꾸는 르세라핌]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2283406278074</link>
+            <guid>https://zenerate.glivery.co.kr/p/2283406278074</guid>
+            <pubDate>Tue, 02 Apr 2024 16:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;조심하라. 나는 두려움이 없고, 그렇기에 강력하다.(Beware; for I am FEARLESS, and therefore powerful)&nbsp;막강한]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/96c962d7abfb2c75c44ab0b4936ffe7b_1652165350_0557-1652253831857.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[🖊 초월을 꿈꾸는 르세라핌]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2283406133076</link>
+            <guid>https://zenerate.glivery.co.kr/p/2283406133076</guid>
+            <pubDate>Tue, 02 Apr 2024 16:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;조심하라. 나는 두려움이 없고, 그렇기에 강력하다.(Beware; for I am FEARLESS, and therefore powerful)&nbsp;막강한]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/96c962d7abfb2c75c44ab0b4936ffe7b_1652165350_0557-1652253831857.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[#ZenerSpace 🔊 처음 만나는 르세라핌]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2282726378870</link>
+            <guid>https://zenerate.glivery.co.kr/p/2282726378870</guid>
+            <pubDate>Tue, 02 Apr 2024 16:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;5월 2일 오후 18시, 하이브 최초의 걸그룹 르세라핌이 베일을 벗었다.데뷔 미니 앨범 [FEARLESS]로 세상에 모습을 드러낸 르세라핌은 하이브 산하 레이블 쏘스뮤직]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/B2A04279-67A0-42A1-9935-A886DC5F7377-1651573269922.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[콩코드 인터뷰 | 과거로 비행하는 초음속 여객기]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2282178667209</link>
+            <guid>https://zenerate.glivery.co.kr/p/2282178667209</guid>
+            <pubDate>Tue, 02 Apr 2024 16:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;투박한 베이스 연주 위 까슬까슬한 기타 소리가 흐르고, 기계적인 드럼 연주로 구성한 소리의 황무지 위에 미성의 목소리가 흐른다. 청계천의 오래된 레코드 가게에]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/concorde_20220301_EP_OL_%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB_-1651026568861.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[콩코드 인터뷰 | 과거로 비행하는 초음속 여객기]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2282178619495</link>
+            <guid>https://zenerate.glivery.co.kr/p/2282178619495</guid>
+            <pubDate>Tue, 02 Apr 2024 16:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;투박한 베이스 연주 위 까슬까슬한 기타 소리가 흐르고, 기계적인 드럼 연주로 구성한 소리의 황무지 위에 미성의 목소리가 흐른다. 청계천의 오래된 레코드 가게에]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/concorde_20220301_EP_OL_%E1%84%8F%E1%85%A5%E1%84%87%E1%85%A5%E1%84%89%E1%85%A1%E1%84%8C%E1%85%B5%E1%86%AB_-1651026568861.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[IM FEARLESS : 르세라핌 [FEARLESS] 감상회 후기]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2281242430002</link>
+            <guid>https://zenerate.glivery.co.kr/p/2281242430002</guid>
+            <pubDate>Tue, 02 Apr 2024 16:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;4월 14일 하이브와 쏘스뮤직이 협력하여 론칭하는 걸그룹 르세라핌(LE SSERAFIM)의 데뷔 앨범 [FEARLESS] 음악 감상회에 다녀왔습니다.르세라핌의 콘셉트 포]]></content:encoded>
+            <enclosure url="https://post-phinf.pstatic.net/MjAyMjA0MTZfMTcz/MDAxNjUwMDg5ODE4MjYw.Bl6ezR9acLTtGzL2Cfe0G3zwMqOX9np84T6goRXbqPQg.KxIxiKViRKnKV1g3Z8CDg0A-r0btRxgoyHbBodDkN2Yg.JPEG/style_6253a0d55b62b-1200x1470.jpeg?type=w1200" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[#ZenerSpace 윤하와 사건의 지평선 💫 #YounhaSpace_EventHorizon]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2281111346020</link>
+            <guid>https://zenerate.glivery.co.kr/p/2281111346020</guid>
+            <pubDate>Tue, 02 Apr 2024 16:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;4월 13일 밤 11시, 200여 명 이상의 청취자들이 트위터의 실시간 음성 대화 서비스 스페이스에 모였다. 국내 유저들은 물론 라틴아메리카, 터키, 일본 등]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/AKR20220330031900005_01_i_P4-1649959173922.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[#ZenerSpace 예고 : 윤하와 사건의 지평선 너머로 💫]]></title>
+            <link>https://zenerate.glivery.co.kr/p/2280974782837</link>
+            <guid>https://zenerate.glivery.co.kr/p/2280974782837</guid>
+            <pubDate>Tue, 02 Apr 2024 16:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;고마웠어요, 그래도 이제는.​'추억의 가수'라는 워딩을 썩 좋아하지 않습니다. 특히 그 아티스트가 현재도 왕성히 활동하고 있는 경우에 더욱 그렇습니다. 200]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/20220331110340_1734509_1200_1200-1649822671571.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[250 | 인터뷰 ① '춤을 추어요']]></title>
+            <link>https://zenerate.glivery.co.kr/p/2280562618834</link>
+            <guid>https://zenerate.glivery.co.kr/p/2280562618834</guid>
+            <pubDate>Tue, 02 Apr 2024 16:23:11 GMT</pubDate>
+            <content:encoded><![CDATA[&nbsp;&nbsp;"'슬픈 가운데 춤은 추고 싶은 음악',&nbsp;그것이 제 목표였습니다."&nbsp;'뽕'을 찾는 아티스트가 있었다. 원래 그는&nbsp;세련된 전자 음악을]]></content:encoded>
+            <enclosure url="https://img.glivery.co.kr/WT3OvMIXYIWH4NnOfsF12Y18VO72/IMG_6561%202-1649410222368.jpeg" length="0" type="image/jpeg"/>
+        </item>
+    </channel>
+</rss>
